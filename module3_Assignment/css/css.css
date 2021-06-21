@@ -62,13 +62,13 @@ p{
     margin: 0 auto 15px;
     font-family:sans-serif;
 }
-.col-lg-1, .col-md-1, .col-sm-1{
+.col-lg-12, .col-md-12, .col-sm-12{
     float: none;
     background-color: grey;
     margin: 30px auto;
 }
 @media (min-width: 992px) {
-    .col-lg-1{
+    .col-lg-12{
         width: 99%;      
     }
 }
@@ -79,7 +79,7 @@ p{
     }
 }
 @media (max-width: 767px) {
-    .col-sm-1{
+    .col-sm-12{
         width: 75%; 
         margin: 5% auto 5%;
         border: none;      
