@@ -73,7 +73,7 @@ p{
     }
 }
 @media (min-width: 768px) and (max-width: 991px) {
-    .col-md-1{
+    .col-md-12{
         width: 97%; 
         margin-top: 3%;      
     }
